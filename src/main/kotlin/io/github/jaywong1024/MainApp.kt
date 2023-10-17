@@ -15,7 +15,6 @@ open class MainApp {
 }
 
 fun main(args: Array<String>) {
-    var len = args?.size;
     runApplication<MainApp>(*args)
 }
 
